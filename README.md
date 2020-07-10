@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Have a look at my porfolio ... https://www.trevorsaudi.com
+- 😄 Have a look at my porfolio ... www.trevorsaudi.com
 - 🌱 I’m currently learning ... exploit development and bug bounty
 - 📫 How to reach me: ...
 
