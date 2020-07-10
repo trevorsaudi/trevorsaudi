@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Have a look at my porfolio ... https://trevorsaudi.com
 - 🌱 I’m currently learning ... exploit development and bug bounty
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... trevorsaudi@gmail.com
 
 <!--
 **trevorsaudi/trevorsaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
