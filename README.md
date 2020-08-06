@@ -2,7 +2,7 @@
 - 😄 Have a look at my porfolio ... https://trevorsaudi.com
 - 🌱 I’m currently learning ... javascript and penetration testing
 - 📫 How to reach me: ... trevorsaudi@gmail.com
-![Vanilla-1s-280px (1)](https://user-images.githubusercontent.com/38811409/89576940-a10d6800-d838-11ea-9297-cfe6b27d48eb.gif)
+![Vanilla-1s-280px (2)](https://user-images.githubusercontent.com/38811409/89577215-03feff00-d839-11ea-8ef5-90aa030442f8.gif)
 
 <!--
 **trevorsaudi/trevorsaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
