@@ -2,6 +2,8 @@
 - 😄 Have a look at my porfolio ... https://trevorsaudi.com
 - 🌱 I’m currently learning ... idk, python?
 - 📫 How to reach me: ... email: trevorsaudi@gmail.com
+
+
 ![Vanilla-1s-280px (2)](https://user-images.githubusercontent.com/38811409/89577215-03feff00-d839-11ea-8ef5-90aa030442f8.gif)
 
 <!--
