@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Have a look at my porfolio ... https://trevorsaudi.com
-- 🌱 I’m currently learning ... idk, python?
+- 🌱 I’m currently learning python
 - 📫 How to reach me: ... email: trevorsaudi@gmail.com
 
 
